@@ -1,0 +1,34 @@
+body {
+  background-color: #FFFFFF;
+  font-family: fantasy;
+}
+
+.header {
+  background-color: #23374d;
+  text-align: center;
+  font-size: 60px;
+  color: #FFFFFF;
+  padding: 10px;
+}
+
+.noticia{
+    margin: 0 auto;
+    width: 80%;
+    padding: 15px;
+
+}
+#titulo{
+    font-size: 40px;
+    text-align: center;
+}
+
+#cuerpo{
+    font-size: 20px;
+    text-align: justify;
+}
+.cambios{
+    margin: 0 auto;
+    width: 60%;
+    padding: 15px; 
+    text-align: center;
+}
